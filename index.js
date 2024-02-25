@@ -5,9 +5,6 @@ const path = require('path')
 
 const filename = path.join(__dirname, 'data', 'Contact_Data.csv')
 
-
-// console.log(contacts)
-
 function csv2json(filename){
     const file = fs.readFileSync(filename, 'utf8')
     const records = []
