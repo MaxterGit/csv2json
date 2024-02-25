@@ -1,0 +1,24 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "Convierte CSV a JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxterGit/csv2json.git"
+  },
+  "keywords": [
+    "csv2json",
+    "csv",
+    "json"
+  ],
+  "author": "Javier Nunez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxterGit/csv2json/issues"
+  },
+  "homepage": "https://github.com/MaxterGit/csv2json#readme"
+}
